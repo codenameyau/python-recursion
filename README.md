@@ -1,2 +1,5 @@
 # python-recursion
-Python implementations of common recursive problems
+
+Welcome, this repository contains Python implementations 
+of common recursive problems for Python learners. Enjoy :)
+
